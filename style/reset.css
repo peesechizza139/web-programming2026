@@ -1,4 +1,4 @@
-/* reset.css */
+/* 브라우저 기본 스타일 초기화 */
 
 /* 모든 요소의 기본 여백 제거 */
 * {
@@ -136,8 +136,7 @@ video {
   -webkit-box-sizing: border-box;
 }
 
-/* HTML5
-display-role reset for older browsers */
+/* 구형 브라우저에서도 HTML5 요소를 블록으로 표시 */
 article,
 aside,
 details,
